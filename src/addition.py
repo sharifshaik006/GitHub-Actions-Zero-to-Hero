@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit changes to expe git hub action
+# This is a test commit changes to expe git hub actions
 def add(a, b):
     return a + b
 
